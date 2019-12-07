@@ -12,6 +12,9 @@ docker-compose.ymlと同一フォルダに「certs」ディレクトリと「wor
 </pre>
 
 ## dockerの立ち上げ方
+dockerコマンドがサーバー上に入っていない場合、以下の記事等を参考に事前にインストールしておいてください。
+https://qiita.com/youtangai/items/ff67ceff5497a0e0b1af
+
 以下のコマンドを順番に実行
 <pre>
 cd docker-compose.ymlがあるディレクトリ
